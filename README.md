@@ -1,6 +1,6 @@
 # MHNN
 
-The project use Sarsa algorithm and Q-learning algorithm for Cliff walking problem. 
+The project use Sarsa algorithm and Q-learning algorithm for cliff walking problem. 
 This is two general algorithms used widely to solve problems in reinforcement learning. 
 Let watch the following links to more clearly understand about way 2 algorithms implement !
 
